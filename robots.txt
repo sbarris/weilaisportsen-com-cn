@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sbarris.github.io/weilaisportsen-com-cn/sitemap.xml
